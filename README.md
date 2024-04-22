@@ -39,7 +39,9 @@ Alternatively to conduct regression in Python use your own desired method or see
 # Required Libraries
 - numpy
 - matplotlib.pyplot
+- matplotlib.dates
 - pandas
 - datetime
 - warnings
 - statsmodels.api
+- meteostat
